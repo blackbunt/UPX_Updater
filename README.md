@@ -1,6 +1,6 @@
 # UPX Updater
 
-This small program automates the process of downloading and updating the UPX executable (`upx.exe`) to the latest version from the official UPX website (https://upx.github.io/).
+This small program automates the process of downloading and updating the UPX executable for Windows 64-Bit (`upx.exe`) to the latest version from the official UPX website (https://upx.github.io/).
 
 ## Purpose
 
@@ -24,8 +24,8 @@ The purpose of this script is to ensure that the `upx.exe` file is up-to-date by
 ## Requirements
 
 - Python 3.x
-- Requests library (`pip install requests`)
-- tqdm library (`pip install tqdm`)
+- internet connection
+- requirements.txt (included)
 
 ## Note
 
